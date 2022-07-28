@@ -1,0 +1,11 @@
+.App {
+  margin: 0 auto;
+  margin-top: 100px;
+  box-sizing: border-box;
+  width: 600px;
+  height: 900px;
+  border-radius: 10%;
+  background-color: #fff;
+  padding: 40px 0;
+  overflow: hidden;
+}

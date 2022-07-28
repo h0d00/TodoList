@@ -1,0 +1,21 @@
+.TimeZone {
+  font-size: 30px;
+  border-bottom: 3px solid #e9ecef;
+  padding: 0 40px;
+}
+
+.secondzone {
+  width: 140px;
+  float: right;
+}
+
+.year {
+  font-size: 30px;
+  font-weight: bolder;
+}
+
+.weeks {
+  font-size: 30px;
+  color: #7e7e7e;
+  margin: 20px 0;
+}
